@@ -11,9 +11,6 @@ def function(string):
 
     return(new_string)
 
-
-
-
 input = "iqbal"
 print("input =", input)
 output = function(input)
